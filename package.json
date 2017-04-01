@@ -1,0 +1,8 @@
+{
+  "name": "functional-helpers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:markwain/functional-helpers.git",
+  "author": "markwain <markian.ivanichok@gmail.com>",
+  "license": "MIT"
+}
